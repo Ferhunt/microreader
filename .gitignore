@@ -50,3 +50,7 @@ test/bench_results.json
 /version.txt
 /sd/.sleep
 /test/build_verify
+
+# Clangd
+.clangd
+compile_commands.json
